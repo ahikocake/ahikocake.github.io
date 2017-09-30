@@ -177,10 +177,6 @@ social:
     url: "https://www.youtube.com/channel/UCuRdLW39hP7mPYMXwmnS5zg"
   - title: "twitter"
     url: "https://twitter.com/ahikocake"
-  - title: "discord"
-    url: "https://tinyurl.com/ahikocake"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -205,7 +201,6 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Timeline: 'timeline'
-  Gear: 'gear'
   Thanks ♥: 'thanks'
 
 # Exclusion list from the generated _site
