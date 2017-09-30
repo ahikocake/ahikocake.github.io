@@ -131,7 +131,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/twitch-logo.png"
     date: "August 14, 2016"
     description: "Started Streaming"
   - image: "/img/timeline/baracktocat.jpg"
