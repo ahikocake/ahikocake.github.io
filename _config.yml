@@ -33,7 +33,7 @@ author: "Ahiko"
 title: "Ahiko"
 description: "Website of AhikoCake AKA Ahiko. Twitch Streamer & ArenaNet Partner"
 keywords: "ahiko, ahikocake, twitch, guild wars 2, arenanet, streamer"
-favicon: "/img/favicon.ico"
+# favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
@@ -146,13 +146,14 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/ava.jpg"
+description: "hi!"
 
 ###########
 # Contact #
 ###########
 
-email: "danaoira@live.com"
+# email: "danaoira@live.com"
 
 ################
 # Author Blurb #
