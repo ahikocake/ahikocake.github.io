@@ -204,7 +204,7 @@ pages_list:
   About: 'about'
   Timeline: 'timeline'
   Gear: 'latest-post'
-  Thanks♥: 'contact'
+  Thanks ♥: 'contact'
 
 # Exclusion list from the generated _site
 
