@@ -173,8 +173,12 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "twitch"
     url: "https://twitch.tv/ahikocake"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UCuRdLW39hP7mPYMXwmnS5zg"
   - title: "twitter"
     url: "https://twitter.com/ahikocake"
+  - title: "discord"
+    url: "https://tinyurl.com/ahikocake"
   - title: "rss"
     url: "/feed.xml"
 
