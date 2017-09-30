@@ -6,9 +6,8 @@
     <div class="container">
       <div class="row">
           <div class="col-md-10 col-md-offset-1">
-            <h1 class="brand-heading">&nbsp;</h1>
-            <h1 class="brand-heading">&nbsp;</h1>
-            <span class="intro-text">{{ content }}</span>
+            <h1 class="brand-heading" style="display:none;">&nbsp;</h1>
+            <h1 class="brand-heading" style="display:none;">&nbsp;</h1>
             <h5>&nbsp;</h5>
             <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
               {% if site.me-img contains "https://" %}
@@ -17,6 +16,7 @@
                 <img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="">
               {% endif %}
             </a>
+            <span class="intro-text">{{ content }}</span>
           </div>
         </div>
     </div>
