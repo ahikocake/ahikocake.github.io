@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Ahiko"
 title: "Ahiko"
-description: "Website of AhikoCake AKA Ahiko. Twitch Streamer & ArenaNet Partner"
+description: "Official website of AhikoCake AKA Ahiko. Twitch Streamer & ArenaNet Partner"
 keywords: "ahiko, ahikocake, twitch, guild wars 2, arenanet, streamer"
 # favicon: "/img/favicon.ico"
 
@@ -175,8 +175,6 @@ social:
     url: "https://twitch.tv/ahikocake"
   - title: "twitter"
     url: "https://twitter.com/ahikocake"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
