@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Just your usual noob cake gamer who likes cakes."
-  - text: "Twitch Streamer & ArenaNet Partner"
+  - text: "Twitch Streamer and ArenaNet Partner"
 
 me-img: "/img/jetpacktocat.png"
 
