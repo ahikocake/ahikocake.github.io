@@ -131,18 +131,18 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/twitch-logo.png"
+  - image: "/img/ava.jpg"
     date: "August 14, 2016"
     description: "Started Streaming"
   - image: "/img/timeline/pof-logo.jpeg"
     date: "November 24, 2016"
-    description: "ArenaNet Partner"
+    description: "Became ArenaNet Partner"
   - image: "/img/timeline/twitch-logo.png"
     date: "April 24, 2017"
-    description: "Twitch Affiliate"
+    description: "Became Twitch Affiliate"
   - image: "/img/timeline/twitchkittens-logo.jpg"
     date: "July 6, 2017"
-    description: "Twitch Kitten"
+    description: "Joined Twitch Kittens"
 
 # First image of the Timeline
 
