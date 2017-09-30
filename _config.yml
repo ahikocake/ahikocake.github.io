@@ -201,7 +201,7 @@ keybase-in-footer: True
 pages_list:
   About: 'about'
   Timeline: 'timeline'
-  Gear: 'specs'
+  Gear: 'gear'
   Thanks ♥: 'contact'
 
 # Exclusion list from the generated _site
