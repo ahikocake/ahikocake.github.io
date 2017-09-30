@@ -140,13 +140,13 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "April 24, 2017"
     description: "Twitch Affiliate"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/default.png"
     date: "July 6, 2016"
     description: "Twitch Kitten"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+#timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
