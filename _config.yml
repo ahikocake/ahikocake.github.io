@@ -203,7 +203,7 @@ pages_list:
   About: 'about'
   Timeline: 'timeline'
   Gear: 'latest-post'
-  Thank: 'contact'
+  Thank You: 'contact'
 
 # Exclusion list from the generated _site
 
