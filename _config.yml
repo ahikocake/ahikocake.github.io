@@ -201,6 +201,7 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Timeline: 'timeline'
+  Test: 'http://twitch.tv/ahikocake'
   Thanks ♥: 'thanks'
 
 # Exclusion list from the generated _site
