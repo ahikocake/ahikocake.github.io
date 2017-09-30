@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "Ahiko"
-title: "AhikoCake AKA Ahiko - Twitch Streamer & Guild Wars 2 ArenaNet Partner"
-description: "Website of AhikoCake AKA Ahiko. T"
+title: "Ahiko"
+description: "Website of AhikoCake AKA Ahiko. Twitch Streamer & ArenaNet Partner"
 keywords: "ahiko, ahikocake, twitch, guild wars 2, arenanet, streamer"
 favicon: "/img/favicon.ico"
 
@@ -56,6 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Just your usual noob cake gamer who likes cakes."
+  - text: "Twitch Streamer & ArenaNet Partner"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -82,8 +83,8 @@ me-img: "/img/jetpacktocat.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#ffffff"
+apple-status-bar-style: "white"
 
 ################
 # Web app mode #
@@ -131,11 +132,17 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "August 14, 2016"
+    description: "Started Streaming"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "November 24, 2016"
+    description: "ArenaNet Partner"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "April 24, 2017"
+    description: "Twitch Affiliate"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "July 6, 2016"
+    description: "Twitch Kitten"
 
 # First image of the Timeline
 
@@ -145,7 +152,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "danaoira@live.com"
 
 ################
 # Author Blurb #
@@ -163,12 +170,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+  - title: "twitch"
+    url: "https://twitch.tv/ahikocake"
   - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://twitter.com/ahikocake"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
@@ -184,7 +189,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: ahikocake
 keybase-in-social: True
 keybase-in-footer: True
 
@@ -196,8 +201,8 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
+  Thanks: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
