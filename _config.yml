@@ -121,7 +121,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "danaoira"
 
 syntax-highlight: True
 
@@ -199,9 +199,9 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
+  Stream: 'stream'
   Timeline: 'timeline'
   Thanks ♥: 'thanks'
-  Watch: 'watch'
 
 # Exclusion list from the generated _site
 
