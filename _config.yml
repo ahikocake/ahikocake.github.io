@@ -201,6 +201,7 @@ pages_list:
   About: 'about'
   Timeline: 'timeline'
   Thanks ♥: 'thanks'
+  Watch: 'watch'
 
 # Exclusion list from the generated _site
 
