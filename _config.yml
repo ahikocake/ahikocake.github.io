@@ -201,6 +201,8 @@ pages_list:
   About: 'about'
   Stream: 'stream'
   Timeline: 'timeline'
+  Gear: 'gear'
+  Donate: 'donate'
   Thanks ♥: 'thanks'
 
 # Exclusion list from the generated _site
