@@ -5,15 +5,25 @@ title: Stream
 ---
 ## Stream
 
+<style type="text/css">
+  #twitch-embed {
+    width: 100% !important;
+    height: auto !important;
+  }
+</style>
+
 [Join us live on Mondays, Wednesday and Fridays starting 7pm PST!](http://twitch.tv/ahikocake)
 
-<iframe
-    src="http://player.twitch.tv/?channel=ahikocake&autoplay=false"
-    height="720"
-    width="1280"
-    frameborder="0"
-    scrolling="no"
-    allowfullscreen="true">
-</iframe>
+<div id="twitch-embed"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+<script type="text/javascript">
+  new Twitch.Embed("twitch-embed", {
+    width: 100%,
+    height: 100%,
+    //channel: "ahikocake"
+    video: "213148377"
+  });
+</script>
 
 <p>PC Specs: Intel i7-8700K + NVIDIA GTX 1080 Ti</p>
