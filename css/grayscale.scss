@@ -320,7 +320,7 @@ ul.social-buttons li a {
     &:hover,
     &:focus,
     &:active {
-        color: #222;
+        color: #fff;
         background-color: darken($social-buttons-color, 10%);
     }
 }
